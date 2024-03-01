@@ -6,7 +6,7 @@ void main()async {
 
   WidgetsFlutterBinding.ensureInitialized();
   await AppCenter.startAsync(
-    appSecretAndroid: "b11db9f1-67ef-4d0e-965c-511f62ce6fa5",
+    appSecretAndroid: "9bbcc9f0-b8b4-4d43-a6b4-7087264ae1da",
     ///// TODO: change below key for iOS
     appSecretIOS: '2da3d93f-6b3f-48f9-920f-2d63ae3cd25a',
     enableDistribute: false,
